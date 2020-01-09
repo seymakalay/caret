@@ -1,0 +1,13 @@
+name: caret
+title: caret
+username:
+account: seymakalay87
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1618865
+bundleId: 2716812
+url: https://seymakalay87.shinyapps.io/caret/
+when: 1578576621.56804
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ClustereData.xlsx
